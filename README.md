@@ -1,0 +1,2 @@
+# Microservices_Configuration
+External configuration repository for microservices
